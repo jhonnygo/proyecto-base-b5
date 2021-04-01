@@ -1,0 +1,33 @@
+{
+  "name": "proyecto-base-b5",
+  "version": "1.0.0",
+  "description": "Proyecto Base con Bootstrap 5 y Gulp.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonnygo/proyecto-base-b5.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "gulp"
+  ],
+  "author": "Jhonny A. Gomez S. - JhonnyGO <jhonny@jhoncytech.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonnygo/proyecto-base-b5/issues"
+  },
+  "homepage": "https://github.com/jhonnygo/proyecto-base-b5#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}

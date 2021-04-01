@@ -1,0 +1,13 @@
+# This file is a Base Standard project with Bootstrap 4.
+#
+# Copyright (c) 2021-present JHONCYTECH <info@jhoncytech.com>
+#
+# For the full copyright and license information, please view the LICENSE
+# file that was distributed with this source code.
+#
+# @author Jhonny A. Gomez S. <jhonny@jhoncytech.com>
+
+/.idea
+/vendor/
+/node_modules/
+/package-lock.json
